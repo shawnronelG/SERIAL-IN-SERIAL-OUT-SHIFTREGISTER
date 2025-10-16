@@ -40,5 +40,6 @@ Developed by:G.SHAWN RONEL RegisterNumber:25005544
 **RTL LOGIC FOR SISO Shift Register**
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![WhatsApp Image 2025-10-15 at 10 06 00_c8a7a5b5](https://github.com/user-attachments/assets/7a444371-6e8a-48ad-a906-ef37389e228d)
 
 **RESULTS**
